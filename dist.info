@@ -1,0 +1,12 @@
+name = "luafun"
+version = "0.0.1"
+
+desc = "A high-performance functional programming library for LuaJIT"
+author = "Roman Tsisyk <roman@tsisyk.com>"
+license = "MIT/X11"
+url = "https://rtsisyk.github.io/luafun"
+maintainer = "Everton Ribeiro"
+
+depends = {
+  "luajit >= 2.0",
+}
